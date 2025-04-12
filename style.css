@@ -1,4 +1,4 @@
-img {
+#villa {
     width: 450px
       
   }
@@ -11,4 +11,7 @@ img {
   h1,h2{
     color:	#000000
   }
-  
+
+  img {
+    width: 250px;
+  }
